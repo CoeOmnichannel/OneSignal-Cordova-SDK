@@ -66,5 +66,5 @@ configurations.all { resolutionStrategy {
 }}
 
 dependencies {
-    implementation 'com.github.Outsystems:OneSignal-Android-SDK:3.15.5-OS1'
+    implementation 'com.github.Outsystems:OneSignal-Android-SDK:fix~android-dependency-SNAPSHOT'
 }
